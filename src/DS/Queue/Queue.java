@@ -49,4 +49,8 @@ public class Queue {
 		}
 	}
 	
+	public int size(){
+        return (rear-front);
+    }
+	
 }
