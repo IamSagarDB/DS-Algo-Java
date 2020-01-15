@@ -14,6 +14,6 @@
  |LinearSearch|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/Algorithm/Searching/LinearSearch/LinearSearch.java)
  |BinarySearch|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/Algorithm/Searching/BinarySearch/BinarySearch.java)
  |TernarySearch|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/Algorithm/Searching/TernarySearch/TernarySearch.java)
-
+ |BubbleSort|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/Algorithm/Sorting/BubbleSort/BubbleSort.java)
 
  >Keep Smiling Keep Coding ❤
