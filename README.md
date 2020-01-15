@@ -9,7 +9,7 @@
  |Queue using Array|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/DS/Queue/Queue.java)
  
  
- |Algorithm|Line|
+ |Algorithm|Link|
  |--|--|
  |LinearSearch|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/Algorithm/Searching/LinearSearch/LinearSearch.java)
  |BinarySearch|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/Algorithm/Searching/BinarySearch/BinarySearch.java)
