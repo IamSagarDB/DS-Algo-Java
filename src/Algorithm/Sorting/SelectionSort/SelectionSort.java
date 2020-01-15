@@ -2,7 +2,7 @@ package Algorithm.Sorting.SelectionSort;
 
 public class SelectionSort {
     public static void main(String[] args) {
-        int[] arr = {4, 7,200, 2, 9, 5, 6,100,0};
+        int[] arr = {4, 7, 9, 1, 8, 4,0};
         SelectionSort(arr);
         for (int x : arr) {
             System.out.print(x + " ");
@@ -11,7 +11,7 @@ public class SelectionSort {
 
     // Algorithm for SelectionSort
     public static void SelectionSort(int[] arr) {
-        for (int i = 0; i < arr.length ; i++) {
+        for (int i = 0; i < arr.length; i++) {
 
             int minIndex = i;
 
@@ -20,7 +20,6 @@ public class SelectionSort {
                     minIndex = j;
                 }
             }
-
             int temp = arr[minIndex];
             arr[minIndex] = arr[i];
             arr[i] = temp;
