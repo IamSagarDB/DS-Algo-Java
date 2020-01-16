@@ -25,23 +25,22 @@ public class Queue<T> {
 
     public void enqueue(T data) {
         Node node = new Node(data);
+
+        if (head == null) {
+            head = node;
+        }
         if (tail != null) {
             tail.next = node;
         }
         tail_count++;
         tail = node;
-        if (head == null) {
-            head = node;
-        }
     }
 
     public T dequeue() {
+
         T data = head.data;
         head = head.next;
         head_count++;
-        if (head == null) {
-            tail = null;
-        }
         return data;
     }
 
