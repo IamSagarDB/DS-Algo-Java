@@ -5,8 +5,8 @@
 
  |DataStructure|Link|
  |--|--|
- |Stack<T> |[Click Here](https://github.com/ImDropCodes/DS-Algo/blob/master/src/DS/Stack/Stack.java)
- |Queue<T>|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/DS/Queue/Queue.java)
+ |Stack <T> |[Click Here](https://github.com/ImDropCodes/DS-Algo/blob/master/src/DS/Stack/Stack.java)
+ |Queue <T>|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/DS/Queue/Queue.java)
  
  
  |Algorithm|Link|
