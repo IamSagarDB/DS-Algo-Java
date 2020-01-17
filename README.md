@@ -7,7 +7,7 @@
  |--|--|
  |Stack <T> |[Click Here](https://github.com/ImDropCodes/DS-Algo/blob/master/src/DS/Stack/Stack.java)
  |Queue <T>|[Click Here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/DS/Queue/Queue.java)
- 
+ |Singly LinkedList|[Click here](https://github.com/ImDropCodes/DS-Algo-Java/blob/master/src/DS/LinkedList/SinglyLinkedList.java)
  
  |Algorithm|Link|
  |--|--|
