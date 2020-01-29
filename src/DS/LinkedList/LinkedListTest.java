@@ -9,6 +9,8 @@ public class LinkedListTest {
         c.insertAtStart(40);
         c.insertAtLast(5);
         c.insertAtLast(2);
+        c.deleteAtFirst();
+        c.deleteAtFirst();
         c.print();
 
     }

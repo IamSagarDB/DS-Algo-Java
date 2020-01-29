@@ -45,5 +45,10 @@ public class CircularLinkedList {
         }
         System.out.print(node.data);
     }
+
+    public void deleteAtFirst(){
+        Node first = last.next;
+        last.next = first.next;
+    }
 }
 
